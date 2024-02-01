@@ -3,7 +3,7 @@
 🌌 "No Tomorrows" is a Survival Horror/Shooter game developed in Unreal Engine 4, where you guide Stirner through a desolate post-apocalyptic planet. Your mission is to escape the surface and complete your objectives, facing eerie enemies that stand in your way.
 
 ## Gameplay
-Immerse yourself in the gameplay of "No Tomorrows" and experience the harrowing challenges that await:
+Immerse yourself in this gameplay of "No Tomorrows" and experience all the harrowing challenges that await:
 👁️ [Watch Gameplay](https://www.youtube.com/watch?v=uG0P2nIrGOM&t)
 
 ## Download & Play
