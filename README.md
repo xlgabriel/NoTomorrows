@@ -29,6 +29,10 @@ Embark on your post-apocalyptic adventure. "No Tomorrows" is available for free,
 The universe of "No Tomorrows" draws its inspiration from the science fiction novel "All Tomorrows" by C. M. Kosemen. The novel's exploration of human evolution and resilience in the face of insurmountable odds resonates through the narrative and aesthetic of the game. For a deep dive into the themes that have influenced this game, listen to the audiobook here:
 📖 [Listen to "All Tomorrows" Audiobook](https://www.youtube.com/watch?v=imNtSPM3-r4)
 
+## Transmedia
+This awesome story can be expressed in multiple ways. In this project, not only it's expressed in a video game, but also in a narrative short poster where the users can understand more deeply about this awesome universe.
+👀 [Take a look of this content](https://www.canva.com/design/DAGFZUI925w/BU-ISm4OSiX5G6iu-8rqIw/edit?utm_content=DAGFZUI925w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Open Use and Contribution
 This game is an open canvas for gamers, developers, and enthusiasts alike:
 - You are free to use, modify, and distribute the project as you see fit.
